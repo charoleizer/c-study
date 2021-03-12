@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+sort-test.so
+assets.h
+cert
